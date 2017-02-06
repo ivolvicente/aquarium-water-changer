@@ -1,6 +1,6 @@
 # aquarium-water-changer
 ## Arduino base project 
-----
+
 Change a percentage of water from the aquarium (or other liquid container)
 
 *Checklist for Water levels sensors*
